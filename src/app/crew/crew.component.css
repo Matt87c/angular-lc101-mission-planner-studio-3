@@ -1,0 +1,25 @@
+li:hover {
+    cursor: pointer;
+}
+
+.displayBox {
+    height: 275px;
+    width: auto;
+}
+
+img {
+    width: auto;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+h3 {
+    text-align: center;
+}
+
+.selected{
+    color: green;
+}
+/* Add a 'selected' class here to style selected astronaut names a different color. */
